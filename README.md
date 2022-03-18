@@ -5,7 +5,12 @@
 
 https://wagnerdf-dsmovie.netlify.app/
 
-Treinamento fornecido pelo professor Nelio Alves do portal de curso [DEVSUPERIOR](https://devsuperior.com.br/cursos) sendo esse trinamento chamado de Semana Spring React, que foi fornecido nos dias 7 a 13 de março de 2022. 
+Treinamento fornecido pelo professor Nelio Alves do portal de curso [DEVSUPERIOR](https://devsuperior.com.br/cursos) sendo esse treinamento chamado de Semana
+Spring React, que foi fornecido nos dias 7 a 13 de março de 2022.
+    No curso foi criado um site onde o usuário pode escolher um filme e dar sua nota de 1 a 5 pontos, o sistema salva os dados fornecido pelo usuário e a medida que
+    utros usuários vão dando suas notas o sistema calcula a média e da sua nota final com representação e número e também por estrelinhas, sendo que o usuário fornece seu e-mail para votação e esse e-mail fica salvo no banco de dados acompanhando a nota dada no filme escolhido.
+  A parte de back end foi implantada em sistema de hospedagem Heroku utilizando banco de dados PostgreSql e a parte de fornt end foi hospedada em sistema Netlify com ambos repositórios trabalhando em conjunto.
+
 
 
 ## Pagina web
@@ -20,14 +25,17 @@ Treinamento fornecido pelo professor Nelio Alves do portal de curso [DEVSUPERIOR
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Eclipse IDE
-- JSP / Servlets
+- Spring Boot
+- Visual Studio Code
+- JPA
 ## Front end
-- HTML / CSS / JS 
+- HTML / CSS / TypeScript 
 - Bootstrap
+- React
 ## Implantação em produção
 - Back end: Heroku
 - Banco de dados: Postgresql
+- Front end: Netlify
 
 # Aluno
 
